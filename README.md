@@ -9,7 +9,7 @@
 <div>
 <div>
   <h2>🧰 Languages and tools I'm learning until now:</h2><br>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Java&color=%23000000&style=for-the-badge&logo=Java&logoColor=darkgray" alt="Java"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Java&color=%235A5A5A&style=for-the-badge&logo=Java&logoColor=darkgray" alt="Java"></a>
      <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=PYTHON&color=%233776AB&style=for-the-badge&logo=python&logoColor=whitesmoke" alt="python"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=C&color=%2300599C&style=for-the-badge&logo=C&logoColor=whitesmoke" alt="C/C++"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5"></a>
