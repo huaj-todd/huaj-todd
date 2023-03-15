@@ -28,7 +28,7 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=mongodb&color=%2347A248&style=for-the-badge&logo=MongoDB&logoColor=whitesmoke" alt="mongodb"></a>
      <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SQLite&color=%23527FFF&style=for-the-badge&logo=SQLite&logoColor=whitesmoke" alt="mongodb"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Amazon RDS&color=%23003B57&style=for-the-badge&logo=Amazon RDS&logoColor=whitesmoke" alt="mongodb"></a>
-     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Netlifyb&color=%2300C7B7&style=for-the-badge&logo=Netlify&logoColor=whitesmoke" alt="mongodb"></a>
+     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Netlify&color=%2300C7B7&style=for-the-badge&logo=Netlify&logoColor=whitesmoke" alt="mongodb"></a>
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
