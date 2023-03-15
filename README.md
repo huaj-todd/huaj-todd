@@ -22,8 +22,6 @@
      <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=heroku&color=%3776AB&style=for-the-badge&logo=Heroku&logoColor=whitesmoke" alt="heroku"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=jquery&color=%3776AB&style=for-the-badge&logo=Jquery&logoColor=whitesmoke" alt="jquery"></a>
         <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=django&color=%3776AB&style=for-the-badge&logo=Django&logoColor=whitesmoke" alt="Django"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=sqlite&color=%3776AB&style=for-the-badge&logo=
-SQLite&logoColor=whitesmoke" alt="sqlite"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=mysql&color=%3776AB&style=for-the-badge&logo=M\ySQL&logoColor=whitesmoke" alt="mysql"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=postgreSQL&color=%3776AB&style=for-the-badge&logo=PostgreSQL&logoColor=whitesmoke" alt="postgresql"></a>
     <br><br>
