@@ -22,6 +22,10 @@
      <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=heroku&color=%3776AB&style=for-the-badge&logo=Heroku&logoColor=whitesmoke" alt="heroku"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=jquery&color=%3776AB&style=for-the-badge&logo=Jquery&logoColor=whitesmoke" alt="jquery"></a>
         <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=django&color=%3776AB&style=for-the-badge&logo=Django&logoColor=whitesmoke" alt="Django"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=sqlite&color=%3776AB&style=for-the-badge&logo=
+SQLite&logoColor=whitesmoke" alt="Django"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=musql&color=%3776AB&style=for-the-badge&logo=M\ySQL&logoColor=whitesmoke" alt="mysql"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=postgreSQL&color=%3776AB&style=for-the-badge&logo=PostgreSQL&logoColor=whitesmoke" alt="postgresql"></a>
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
