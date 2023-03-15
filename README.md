@@ -33,8 +33,10 @@
 </div>
 </div>
 <br>
-
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huaj-todd&show_icons=true&locale=en&layout=compact" alt="huaj-todd" /></p>
+</div>
+
 <br>
 <div>
     <h3>🤝🏻 Connect with Me</h3>
