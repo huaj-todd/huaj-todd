@@ -32,15 +32,15 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=FIGMA&color=%23552d84&style=for-the-badge&logo=figma&logoColor=whitesmoke" alt="FIGMA"></a>
 </div>
 </div>
-<br>
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huaj-todd&show_icons=true&locale=en&layout=compact" alt="huaj-todd" />
-</div>
-<br>
+
 <br>
 <div>
     <h3>🤝🏻 Connect with Me</h3>
     <div align="center">
         <a href="https://www.linkedin.com/in/ji-hua/"><img src="https://img.shields.io/badge/-Ji%20Hua-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     </div>
+</div>
+<br>
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huaj-todd&show_icons=true&locale=en&layout=compact" alt="huaj-todd" />
 </div>
