@@ -34,7 +34,7 @@
 </div>
 <br>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huaj-todd&show_icons=true&locale=en&layout=compact" alt="huaj-todd" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huaj-todd&show_icons=true&locale=en&layout=compact" alt="huaj-todd" />
 </div>
 
 <br>
