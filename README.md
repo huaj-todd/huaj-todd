@@ -22,7 +22,7 @@
      <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=heroku&color=%23430098&style=for-the-badge&logo=Heroku&logoColor=whitesmoke" alt="heroku"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=jquery&color=%230769AD&style=for-the-badge&logo=Jquery&logoColor=whitesmoke" alt="jquery"></a>
         <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=django&color=%23092E20&style=for-the-badge&logo=Django&logoColor=whitesmoke" alt="Django"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=mysql&color=%234479A1&style=for-the-badge&logo=M\ySQL&logoColor=whitesmoke" alt="mysql"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=mysql&color=%234479A1&style=for-the-badge&logo=MySQL&logoColor=whitesmoke" alt="mysql"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=postgreSQL&color=%234169E1&style=for-the-badge&logo=PostgreSQL&logoColor=whitesmoke" alt="postgresql"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=mongodb&color=%2347A248&style=for-the-badge&logo=MongoDB&logoColor=whitesmoke" alt="mongodb"></a>
     <br><br>
