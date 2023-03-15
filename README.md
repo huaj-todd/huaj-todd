@@ -46,7 +46,7 @@
     <h3>🤝🏻 Connect with Me</h3>
         <a href="https://huaj.me/"><img src="https://img.shields.io/badge/-huaj.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/ji-hua/"><img src="https://img.shields.io/badge/-Ji%20Hua-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
-        <a href="mailto:hua.j@northeastern.edu"><img src="https://img.shields.io/badge/-hua.j@@northeastern.edu-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+        <a href="mailto:hua.j@northeastern.edu"><img src="https://img.shields.io/badge/-Email Me!-D14836?style=flat&logo=Gmail&logoColor=white"></a>
         
 </div>
 <br>
