@@ -33,6 +33,10 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=FIGMA&color=%23552d84&style=for-the-badge&logo=figma&logoColor=whitesmoke" alt="FIGMA"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=IntelliJ IDEA&color=%23000000&style=for-the-badge&logo=IntelliJ IDEA&logoColor=whitesmoke" alt="FIGMA"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=PyCharm&color=%23000000&style=for-the-badge&logo=PyCharm&logoColor=whitesmoke" alt="FIGMA"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Visual Studio Code&color=%2375AADB&style=for-the-badge&logo=Visual Studio Code&logoColor=whitesmoke" alt="FIGMA"></a>
+     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=RStudio&color=%235C2D91&style=for-the-badge&logo=RStudio&logoColor=whitesmoke" alt="FIGMA"></a>
 </div>
 </div>
 
