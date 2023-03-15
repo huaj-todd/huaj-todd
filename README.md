@@ -35,3 +35,9 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huaj-todd&show_icons=true&locale=en&layout=compact" alt="huaj-todd" /></p>
+<div>
+    <h3>🤝🏻 Connect with Me</h3>
+    <div align="center">
+        <a href="https://www.linkedin.com/in/ji-hua/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    </div>
+</div>
