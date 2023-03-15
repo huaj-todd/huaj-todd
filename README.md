@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋🏽, I'm Ji Hua</h1>
-
+<br>
 <div align="left">
     <h2>👨🏽‍💻 About me:</h2>
         <p>• 📚 I’m currently learning: <b>back-end development with PostgreSQL and Django</b></p>
