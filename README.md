@@ -1,14 +1,14 @@
 <h1 align="left">Hi 👋🏽, I'm Ji Hua</h1>
 
 <div align="left">
-    <h3>👨🏽‍💻 About me:</h3>
+    <h2>👨🏽‍💻 About me:</h2>
         <p>• 📚 I’m currently learning: <b>back-end development with PostgreSQL and Django</b></p>
         <p>• ℹ️ Hobbies: <b>Games | Music  | Anime  | Reading</b></p>
         <p>• 📫 How to reach me: <b>hua.j@northeastern.edu</b></p>
 </div><br>
 <div>
 <div>
-  <h3>🧰 Languages and tools I'm learning until now:</h3><br>
+  <h2>🧰 Languages and tools I'm learning until now:</h2><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Java&color=%23F5F5F5&style=for-the-badge&logo=Java&logoColor=black" alt="Java"></a>
      <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=PYTHON&color=%233776AB&style=for-the-badge&logo=python&logoColor=whitesmoke" alt="python"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=C&color=%2300599C&style=for-the-badge&logo=C&logoColor=whitesmoke" alt="C/C++"></a>
@@ -45,7 +45,7 @@
 
 <br>
 <div>
-    <h3>🤝🏻 Connect with Me</h3>
+    <h2>🤝🏻 Connect with Me</h2>
         <a href="https://huaj.me/"><img src="https://img.shields.io/badge/-huaj.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/ji-hua/"><img src="https://img.shields.io/badge/-Ji%20Hua-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
         <a href="mailto:hua.j@northeastern.edu"><img src="https://img.shields.io/badge/-Email Me!-D14836?style=flat&logo=Gmail&logoColor=white"></a>
