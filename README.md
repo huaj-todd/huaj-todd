@@ -37,6 +37,7 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=PyCharm&color=%23000000&style=for-the-badge&logo=PyCharm&logoColor=whitesmoke" alt="FIGMA"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Visual Studio Code&color=%2375AADB&style=for-the-badge&logo=Visual Studio Code&logoColor=whitesmoke" alt="FIGMA"></a>
      <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=RStudio&color=%235C2D91&style=for-the-badge&logo=RStudio&logoColor=whitesmoke" alt="FIGMA"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=%23E95420&style=for-the-badge&logo=Ubuntu&logoColor=whitesmoke" alt="FIGMA"></a>
 </div>
 </div>
 
