@@ -19,11 +19,11 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=node.js&color=%23339933&style=for-the-badge&logo=node.js&logoColor=whitesmoke" alt="node.js"></a>
      <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=json&color=%23000000&style=for-the-badge&logo=json&logoColor=whitesmoke" alt="json"></a>
      <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=R&color=%23276DC3&style=for-the-badge&logo=R&logoColor=whitesmoke" alt="R"></a>
-     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=heroku&color=%3776AB&style=for-the-badge&logo=Heroku&logoColor=whitesmoke" alt="heroku"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=jquery&color=%3776AB&style=for-the-badge&logo=Jquery&logoColor=whitesmoke" alt="jquery"></a>
-        <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=django&color=%3776AB&style=for-the-badge&logo=Django&logoColor=whitesmoke" alt="Django"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=mysql&color=%3776AB&style=for-the-badge&logo=M\ySQL&logoColor=whitesmoke" alt="mysql"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=postgreSQL&color=%3776AB&style=for-the-badge&logo=PostgreSQL&logoColor=whitesmoke" alt="postgresql"></a>
+     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=heroku&color=%23430098&style=for-the-badge&logo=Heroku&logoColor=whitesmoke" alt="heroku"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=jquery&color=%230769AD&style=for-the-badge&logo=Jquery&logoColor=whitesmoke" alt="jquery"></a>
+        <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=django&color=%23092E20&style=for-the-badge&logo=Django&logoColor=whitesmoke" alt="Django"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=mysql&color=%234479A1&style=for-the-badge&logo=M\ySQL&logoColor=whitesmoke" alt="mysql"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=postgreSQL&color=%234169E1&style=for-the-badge&logo=PostgreSQL&logoColor=whitesmoke" alt="postgresql"></a>
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
