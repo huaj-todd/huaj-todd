@@ -3,8 +3,9 @@
 <div align="left">
     <h2>👨🏽‍💻 About me:</h2>
         <p>• 📚 I’m currently learning: <b>back-end development with PostgreSQL and Django</b></p>
-        <p>• ℹ️ Hobbies: <b>Games | Music  | Anime  | Reading</b></p>
+        <p>• ℹ️ Hobbies: <b>Games🎮 | Music🎧 | Anime📺 | Reading📖 </b></p>
         <p>• 📫 How to reach me: <b>hua.j@northeastern.edu</b></p>
+        <p></p>
 </div><br>
 <div>
 <div>
@@ -14,7 +15,7 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=C&color=%2300599C&style=for-the-badge&logo=C&logoColor=whitesmoke" alt="C/C++"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SASS&color=%23CC6699&style=for-the-badge&logo=sass&logoColor=whitesmoke" alt="SASS"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SCSS&color=%23CC6699&style=for-the-badge&logo=sass&logoColor=whitesmoke" alt="SCSS"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> </a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=grey" alt="REACT.JS"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=node.js&color=%23339933&style=for-the-badge&logo=node.js&logoColor=whitesmoke" alt="node.js"></a>
@@ -36,6 +37,7 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Visual Studio Code&color=%2375AADB&style=for-the-badge&logo=Visual Studio Code&logoColor=whitesmoke" alt="FIGMA"></a>
      <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=RStudio&color=%235C2D91&style=for-the-badge&logo=RStudio&logoColor=whitesmoke" alt="FIGMA"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=%23E95420&style=for-the-badge&logo=Ubuntu&logoColor=whitesmoke" alt="FIGMA"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=%237952B3&style=for-the-badge&logo=Bootstrap&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Tableau&color=%23E97627&style=for-the-badge&logo=Tableau&logoColor=whitesmoke" alt="FIGMA"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=heroku&color=%23430098&style=for-the-badge&logo=Heroku&logoColor=whitesmoke" alt="heroku"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Amazon RDS&color=%23003B57&style=for-the-badge&logo=Amazon RDS&logoColor=whitesmoke" alt="amazonRDS"></a>
