@@ -3,7 +3,7 @@
 <div align="left">
     <h2>👨🏽‍💻 About me:</h2>
         <p>• ✌️ I am currently a CS grad student from Boston</p>
-        <p>• 👌 I am currently working on Front-end development using React.js, Redux, JavaScript, and SCSS</p>
+        <p>• 👌 I am currently working on Front-end development using <b>React.js, Redux, JavaScript, and SCSS<>b</p>
         <p>• 📚 I’m currently learning: <b>back-end development with PostgreSQL and Django</b></p>
         <p>• ℹ️ Hobbies: <b>Games🎮 | Music🎧 | Anime📺 | Reading📖 </b></p>
         <p>• 📫 How to reach me: <b>hua.j@northeastern.edu</b></p>
