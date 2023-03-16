@@ -44,6 +44,8 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=heroku&color=%23430098&style=for-the-badge&logo=Heroku&logoColor=whitesmoke" alt="heroku"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Amazon RDS&color=%23003B57&style=for-the-badge&logo=Amazon RDS&logoColor=whitesmoke" alt="amazonRDS"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Netlify&color=%2300C7B7&style=for-the-badge&logo=Netlify&logoColor=whitesmoke" alt="mongodb"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Firebase&color=%23FFCA28&style=for-the-badge&logo=Firebase&logoColor=whitesmoke" alt="mongodb"></a>
+
 </div>
 </div>
 
